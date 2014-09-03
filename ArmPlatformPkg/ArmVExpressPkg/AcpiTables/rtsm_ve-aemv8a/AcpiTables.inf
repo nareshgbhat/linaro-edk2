@@ -46,6 +46,7 @@
   mchi.asl
   msct.asl
   pmtt.asl
+  spcr.asl
 
 [Packages]
   MdePkg/MdePkg.dec
